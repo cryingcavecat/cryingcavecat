@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![👀](https://profile-counter.glitch.me/cryingcavecat/count.svg)
 
 
